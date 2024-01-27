@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @chuchHelaS
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning python
+- ⚡ fact: i am a rookie
